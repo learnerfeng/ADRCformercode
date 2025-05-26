@@ -1,6 +1,8 @@
 # Image Classification - ImageNet
 
-This folder contains the source code for Imagenet classification in [Mitigating Over-smoothing in Transformers via Regularized Nonlocal Functionals]
+This folder contains the source code for Imagenet classification in [ADRCformer: A Perturbation-suppressing
+Transformer with Active Disturbance Rejection
+Control]
 
 It is built on this [repository](https://github.com/facebookresearch/deit/blob/main/README_deit.md)
 
