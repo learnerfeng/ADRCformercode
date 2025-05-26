@@ -2,7 +2,8 @@
 
 This folder contains the source code for Imagenet classification in [ADRCformer: A Perturbation-suppressing Transformer with Active Disturbance Rejection
 Control]
-If you need to use the ADRCformer code, please use the `neutrenoadrc.py` file to ensure correct execution.
+
+### If you need to use the ADRCformer code, please use the `neutrenoadrc.py` file to ensure correct execution.
 
 It is built on this [repository](https://github.com/facebookresearch/deit/blob/main/README_deit.md)
 
